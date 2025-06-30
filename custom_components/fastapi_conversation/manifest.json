@@ -1,0 +1,18 @@
+{
+  "domain": "fastapi_conversation",
+  "name": "FastApi Conversation",
+  "codeowners": [
+    "@MafiaCoconut"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/fastapi_conversation",
+  "homekit": {},
+  "integration_type": "helper",
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "version": "0.0.1",
+  "ssdp": [],
+  "zeroconf": []
+}

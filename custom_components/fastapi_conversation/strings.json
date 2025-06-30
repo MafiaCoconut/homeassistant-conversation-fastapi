@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "description": "New NEW_NAME Sensor",
+        "data": {
+          "name": "Name"
+        }
+      }
+    }
+  }
+}
